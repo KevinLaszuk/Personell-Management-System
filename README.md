@@ -1,4 +1,4 @@
-# Personel-Management-System
+# Personnel-Management-System
 
 - A console-based Java application designed to manage university personnel, including students, faculty, and staff. It demonstrates object-oriented programming principles such as inheritance, abstraction, method overriding, and encapsulation.
 
